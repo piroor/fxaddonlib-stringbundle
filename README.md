@@ -2,8 +2,8 @@
 
 ## Abstract
 
-XUL's <stringbundle> has some useful methods, but nsIStringBundle doesn't.
-This provides a wrapper for nsIStringBundle compatible to <stringbundle>.
+XUL's "stringbundle" element has some useful methods, but nsIStringBundle doesn't.
+This provides a wrapper for nsIStringBundle compatible to "stringbundle".
 
 ## Usage
 
