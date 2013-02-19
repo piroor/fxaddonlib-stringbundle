@@ -9,9 +9,7 @@
    bundle.getFormattedString('key2', [val1, val2]);
 
  license: The MIT License, Copyright (c) 2009 YUKI "Piro" Hiroshi
-   http://github.com/piroor/fxaddonlibs/blob/master/license.txt
- original:
-   http://github.com/piroor/fxaddonlibs/blob/master/stringBundle.js
+   http://github.com/piroor/fxaddonlib-stringbundle
 */
 
 /* To work as a JS Code Module */
