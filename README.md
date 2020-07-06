@@ -1,4 +1,6 @@
-# String Bundle Utility
+# String Bundle Utility, for Firefox older than its version 57.
+
+This project is obsolete and not maintained anymore.
 
 ## Abstract
 
